@@ -1,5 +1,5 @@
 ---
-title: Test post from GUI
+title: Test post LOCAL
 date: '2016-06-29 14:38:00'
 layout: post
 ---
